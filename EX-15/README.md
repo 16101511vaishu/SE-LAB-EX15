@@ -1,3 +1,3 @@
 ## Feature Update
 
-This section was added in the feature branch.
+This change was made in the feature-update branch.
